@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Konto
+comment1.params=
+comment1.target=Konto()
+comment2.params=kss
+comment2.target=void\ KotoStandSetzen(double)
+comment3.params=
+comment3.target=double\ KontoStand()
+comment4.params=buchung
+comment4.target=void\ BuchungHinzuf\u00FCgen(double)
+comment5.params=
+comment5.target=int\ IBAN()
+numComments=6

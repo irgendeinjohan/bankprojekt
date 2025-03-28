@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Kunde_Zu_Konto
+comment1.params=ku\ ko
+comment1.target=Kunde_Zu_Konto(Kunden,\ Konto)
+comment2.params=ku
+comment2.target=void\ KundenSetzen(Kunden)
+comment3.params=
+comment3.target=Kunden\ KundenHolen()
+comment4.params=ko
+comment4.target=void\ KontoSetzen(Konto)
+comment5.params=
+comment5.target=Konto\ KontoHolen()
+numComments=6

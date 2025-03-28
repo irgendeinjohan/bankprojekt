@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=bank_filiale
+comment1.params=n\ gj\ a\ vs
+comment1.target=bank_filiale(java.lang.String,\ int,\ java.lang.String,\ MITARBEITER)
+comment2.params=n
+comment2.target=void\ NameSetzen(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ NameHolen()
+comment4.params=vs
+comment4.target=void\ VorstandSetzen(MITARBEITER)
+comment5.params=
+comment5.target=MITARBEITER\ VorstandHolen()
+numComments=6

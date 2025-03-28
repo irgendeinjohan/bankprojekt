@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Filiale_Zu_Konto
+comment1.params=bf\ ko
+comment1.target=Filiale_Zu_Konto(bank_filiale,\ Konto)
+comment2.params=bf
+comment2.target=void\ FilialeSetzen(bank_filiale)
+comment3.params=
+comment3.target=bank_filiale\ FilialeHolen()
+comment4.params=ko
+comment4.target=void\ KontoSetzen(Konto)
+comment5.params=
+comment5.target=Konto\ KontoHolen()
+numComments=6

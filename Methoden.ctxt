@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Methoden
+comment1.params=
+comment1.target=Methoden()
+comment10.params=IBAN\ Betrag
+comment10.target=void\ f\u00FChreBuchungDurch(int,\ double)
+comment11.params=IBAN\ Betrag
+comment11.target=boolean\ pr\u00FCfeBuchungM\u00F6glich(int,\ double)
+comment12.params=SenderIBAN\ EmpfangIBAN\ betrag
+comment12.target=void\ Ueberweisung(int,\ int,\ double)
+comment2.params=k
+comment2.target=double\ GesamtVerm\u00F6gen(Kunden)
+comment3.params=
+comment3.target=void\ FilialenAusgeben()
+comment4.params=
+comment4.target=void\ KontenAusgeben()
+comment5.params=
+comment5.target=void\ KundenAusgeben()
+comment6.params=
+comment6.target=void\ KontoErstellen()
+comment7.params=VN\ NN\ GD\ A
+comment7.target=void\ KundenErstellen(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment8.params=KundenID\ KontoIBAN
+comment8.target=void\ KundeKontoVer(int,\ int)
+comment9.params=FilialenName\ KontoIBAN
+comment9.target=void\ FilialeKontoVer(java.lang.String,\ int)
+numComments=13
